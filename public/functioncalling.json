@@ -1,0 +1,19 @@
+{
+  "tools": [
+    {
+      "name": "test",
+      "module": "./function/test.ts",
+      "export": "default"
+    },
+    {
+      "name": "map",
+      "module": "./function/map.ts",
+      "export": "default"
+    },
+    {
+      "name": "chat",
+      "module": "./function/chat.ts",
+      "export": "default"
+    }
+  ]
+}

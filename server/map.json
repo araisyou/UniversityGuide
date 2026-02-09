@@ -1,0 +1,42 @@
+{
+  "map": [
+    {
+      "id": 8,
+      "name": "8号館",
+      "description": "情報センターと教室のある2階建の建物。1階にコピー機、2階に情報センターがある。",
+      "floors": [
+        {
+          "level": 1,
+          "rooms": [
+            { "name": "811教室", "aliases": ["811"] },
+            { "name": "812教室", "aliases": ["812"] },
+            { "name": "813教室", "aliases": ["813"] },
+            { "name": "コピー機", "aliases": [] }
+          ]
+        },
+        {
+          "level": 2,
+          "rooms": [
+            { "name": "情報センター", "aliases": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "図書館",
+      "description": "本の貸し出しができる。",
+      "floors": []
+    },
+    {
+      "id": 17,
+      "name": "17号館",
+      "description": "3階にモニターの並ぶ大教室がある。",
+      "floors": [
+        { "level": 1, "rooms": [{ "name": "1712教室", "aliases": ["1712"] }] },
+        { "level": 2, "rooms": [{ "name": "1721教室", "aliases": ["1721"] }] },
+        { "level": 3, "rooms": [{ "name": "1731教室", "aliases": ["1731"] }] }
+      ]
+    }
+  ]
+}

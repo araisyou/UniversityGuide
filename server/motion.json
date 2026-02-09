@@ -1,0 +1,48 @@
+{
+    "motions" : [
+        {
+            "name" : "Listen",
+            "description" : "ユーザーの話を聞いているときの動作です。"
+        },
+        {
+            "name" : "Surprise",
+            "description" : "驚いたときの動作です。"
+        },
+        {
+            "name" : "Introduce",
+            "description" : "自己紹介や案内をしているときの動作です。"
+        },
+        {
+            "name" : "Bow",
+            "description" : "お辞儀をしているときの動作です。"
+        },
+        {
+            "name" : "No",
+            "description" : "否定や拒否をしているときの動作です。"
+        },
+        {
+            "name" : "Shy",
+            "description" : "恥ずかしがっているときの動作です。"
+        },
+        {
+            "name" : "Thinking",
+            "description" : "考え事をしているときの動作です。"
+        },
+        {
+            "name" : "Joy",
+            "description" : "喜んでいるときの動作です。"
+        },
+        {
+            "name" : "Bad",
+            "description" : "不快や困惑を感じているときの動作です。"
+        },
+        {
+            "name" : "Anger",
+            "description" : "怒っているときの動作です。"
+        },
+        {
+            "name" : "Good",
+            "description" : "肯定や同意を示しているときの動作です。"
+        }
+    ]
+}
